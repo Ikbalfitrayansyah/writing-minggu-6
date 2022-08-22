@@ -16,17 +16,14 @@ dan gunakan tag elementfragment ```<>``` sebagai parent dari element.
 ### The Virtual Dom
 - Dengan DOM kita dapat berinteraksi seperti mengupdate data di web page.
 - virtual DOM adalah duplikasi dari real DOM yang sebenarnya.
-![](Screenshot%20(18).png)
 ### Class dan ClassName
 - Pada JSX attribut class di tag element HTML harus menggunakan className.
 ### Curly Braces in JSX
 - Kita bisa menggunakan syntax Javascript di dalam element HTML dengan curly braces.
-- *element dalam tag ``` <h1> ``` akan dianggap sebagai Javascript jika menggunakan curly braces. Dan tampilan yang akan di tampilkan angka 5*
-- *dan jika tidak menggunakan curly braces akan dianggap sebagai content HTML. maka tampilan yg ditampilkan 2+3*
+- *element dalam tag ``` <h1> ``` akan dianggap sebagai Javascript jika menggunakan curly braces.
+- *dan jika tidak menggunakan curly braces akan dianggap sebagai content HTML.
 ### Variable pada JSX
 - Gunakan curly braces untuk akses variable pada JSX.
-- Seperti gambar di bawah ini:
-![](Screenshot%20(24).png)
 ### Attribute pada JSX
 - Menggunakan curly brance untuk data attribute
 ### Event in JSX
